@@ -11,11 +11,11 @@
 
 ## Learning in Public - Notebooks 
 
-![Learning in Public Notebook](./learnings/learning-in-public.md)
+[Learning in Public Notebook](./learnings/learning-in-public.md)
 
 ## Resume: 
 
-![Resume](./images/fullstack-ASP-dot-NET-developer-resume-lauren-collins-2.pdf)
+[Resume](./images/fullstack-ASP-dot-NET-developer-resume-lauren-collins-2.pdf)
 
 ## Community Involvement
 
