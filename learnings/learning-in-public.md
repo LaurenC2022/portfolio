@@ -9,8 +9,9 @@ My goals are centered around developing a strong foundation in web development, 
 - September 23, 2024 - September 29, 2024
     - What did you do last week?
         - Wrote Dev.To article/ tutorial: [Hugging Face: Interacting with Roberta and Hugging Face for the first time](https://dev.to/laurenc2022/hugging-face-interacting-with-roberta-and-hugging-face-for-the-first-time-3feb)
-        - Tech Interviews Sorting Algorithms Workshop: Polished slides, and created activities 
-        - Data Structures & Algorithms: 
+        - Tech Interviews Sorting Algorithms Workshop: Removed unnessisary slides, and created activities 
+        - Data Structures & Algorithms:  
+        - Soft Skills: take notes on pair programming and top down programming. Published notes 
         - Portfolio: undated main page with links to weekly status update and data structures and algorithms learnings
     - What do you plan to do this week?
     - Are there any impediments in your way?
