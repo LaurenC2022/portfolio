@@ -3,19 +3,38 @@
 ## Portfolio 
 
 1. Title: Invest in Moms for Smarter Kids
-    Video: https://youtu.be/_CuoAfAozsQ?si=tFwzSCvvpoZATqCe
-    Code: https://github.com/LaurenC2022/-Invest-in-Moms-for-Smarter-Kids.git
-    About: An information visualization project using data analysis to explore mother's impact on child's development. Project is written in Python
+
+    - [Video](https://youtu.be/_CuoAfAozsQ?si=tFwzSCvvpoZATqCe)
+
+    - [Code](https://github.com/LaurenC2022/-Invest-in-Moms-for-Smarter-Kids.git)
+
+    - About: An information visualization project using data analysis to explore mother's impact on child's development. Project is written in Python
+
+2.  Rivest-Shamir-Adleman Algorithm
+
+    - [Code](https://github.com/LaurenC2022/encryption_RSA)
+
+    - About: This is a Python program that encrypts and decrypts messages using the Rivest-Shamir-Adleman algorithm.
 
 ## Lets Connect 
 
+- [LinkedIn](https://www.linkedin.com/in/laurencollins1190/)
+
+- [Twitter](https://twitter.com/Home_At_Heart_)
+
+- [GitHub](https://github.com/LaurenC2022)
+
+- [StackOverFlow](https://stackoverflow.com/users/17926621/lauren-collins)
+
+- [LeetCode](https://leetcode.com/u/NWsbAqZV89/)
+
 ## Learning in Public - Notebooks 
 
-![Learning in Public Notebook](./learnings/learning-in-public.md)
+[Learning in Public Notebook](./learnings/learning-in-public.md)
 
 ## Resume: 
 
-![Resume](./images/fullstack-ASP-dot-NET-developer-resume-lauren-collins-2.pdf)
+[Resume](./images/fullstack-ASP-dot-NET-developer-resume-lauren-collins-2.pdf)
 
 ## Community Involvement
 
