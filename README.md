@@ -24,7 +24,8 @@
 ## Learning in Public - Notebooks 
 
 - [Weekly Status Updates](./learnings/learning-in-public.md)
-- [Algorithms & Data Structures Notes](./learnings/data_structures_algorithms.md)
+- [Notes Catalog](./learnings/notes-catalog.md)
+- 
 
 ## Resume: 
 

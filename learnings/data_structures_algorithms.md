@@ -1,3 +1,0 @@
-# Data Structures & Algorithms Learnings 
-
-- September 23, 2024 - September 29, 2024
