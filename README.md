@@ -5,27 +5,20 @@
 1. Title: Invest in Moms for Smarter Kids
 
     - [Video](https://youtu.be/_CuoAfAozsQ?si=tFwzSCvvpoZATqCe)
-
     - [Code](https://github.com/LaurenC2022/-Invest-in-Moms-for-Smarter-Kids.git)
-
     - About: An information visualization project using data analysis to explore mother's impact on child's development. Project is written in Python
 
 2.  Rivest-Shamir-Adleman Algorithm
 
     - [Code](https://github.com/LaurenC2022/encryption_RSA)
-
-    - About: This is a Python program that encrypts and decrypts messages using the Rivest-Shamir-Adleman algorithm.
+    - About: This is a Python program that encrypts and decrypts messages git using the Rivest-Shamir-Adleman algorithm.
 
 ## Lets Connect 
 
 - [LinkedIn](https://www.linkedin.com/in/laurencollins1190/)
-
 - [Twitter](https://twitter.com/Home_At_Heart_)
-
 - [GitHub](https://github.com/LaurenC2022)
-
 - [StackOverFlow](https://stackoverflow.com/users/17926621/lauren-collins)
-
 - [LeetCode](https://leetcode.com/u/NWsbAqZV89/)
 
 ## Learning in Public - Notebooks 
@@ -39,27 +32,27 @@
 ## Community Involvement
 
 1. Tech Interviews Sorting Algorithms Workshop 
-    Code: https://github.com/codebar-shanghai/Tech_Interviews_Sorting_Algorithms.git
-    Slides: https://codebar-shanghai.github.io/Tech_Interviews_Sorting_Algorithms/
-    About: I am builting and presenting a workshop on technical interviews. Press "s" while viewing slides to see speaker notes. Presentation uses Reveal.JS 
+    - [Code](https://github.com/codebar-shanghai/Tech_Interviews_Sorting_Algorithms.git)
+    - [Slides](https://codebar-shanghai.github.io/Tech_Interviews_Sorting_Algorithms/)
+    - About: I am builting and presenting a workshop on technical interviews. Press "s" while viewing slides to see speaker notes. Presentation uses Reveal.JS 
 
 ## Skills Stack
 
 I am an Advanced Beginner in all topics below and have built projects using these technologies.
 
-HTML
-CSS
-Python
-C++
-C#
-Git Version Control
-VS Code IDE
-Visual Studios IDE
-Agile Development
-Test Driven Development
-Linux Command Line
+- HTML
+- CSS
+- Python
+- C++
+- C#
+- Git Version Control
+- VS Code IDE
+- Visual Studios IDE
+- Agile Development
+- Test Driven Development
+- Linux Command Line
 
-Interested in adding Java to skills. 
+- Interested in adding Java to skills. 
 
 ## About Me 
 
