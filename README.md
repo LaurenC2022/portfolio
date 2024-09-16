@@ -23,7 +23,8 @@
 
 ## Learning in Public - Notebooks 
 
-[Learning in Public Notebook](./learnings/learning-in-public.md)
+- [Weekly Status Updates](./learnings/learning-in-public.md)
+- [Algorithms & Data Structures Notes](./learnings/data_structures_algorithms.md)
 
 ## Resume: 
 
@@ -35,6 +36,8 @@
     - [Code](https://github.com/codebar-shanghai/Tech_Interviews_Sorting_Algorithms.git)
     - [Slides](https://codebar-shanghai.github.io/Tech_Interviews_Sorting_Algorithms/)
     - About: I am builting and presenting a workshop on technical interviews. Press "s" while viewing slides to see speaker notes. Presentation uses Reveal.JS 
+
+2. Dev.To Article: [Hugging Face: Interacting with Roberta and Hugging Face for the first time](https://dev.to/laurenc2022/hugging-face-interacting-with-roberta-and-hugging-face-for-the-first-time-3feb)
 
 ## Skills Stack
 
