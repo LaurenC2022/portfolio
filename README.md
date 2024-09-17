@@ -22,7 +22,8 @@
 - [StackOverFlow](https://stackoverflow.com/users/17926621/lauren-collins)
 - [LeetCode](https://leetcode.com/u/NWsbAqZV89/)
 
-![Image of me](./images/lauren-collins-logo.png)
+<img src="./images/lauren-collins-logo.png" alt="Profile Picture" width="200" height="200">
+
 
 ## Learning in Public - Notebooks 
 
