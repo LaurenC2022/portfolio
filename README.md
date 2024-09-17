@@ -6,7 +6,7 @@
 
     - [Video](https://youtu.be/_CuoAfAozsQ?si=tFwzSCvvpoZATqCe)
     - [Code](https://github.com/LaurenC2022/-Invest-in-Moms-for-Smarter-Kids.git)
-    - About: An information visualization project using data analysis to explore mother's impact on child's development. Project is written in Python
+    - About: An information visualization project using data analysis to explore mother's impact on child's development. Project is written in Python 
 
 2.  Rivest-Shamir-Adleman Algorithm
 
@@ -16,6 +16,7 @@
 ## Lets Connect 
 
 - [LinkedIn](https://www.linkedin.com/in/laurencollins1190/)
+- [Microsoft Learn](https://learn.microsoft.com/en-us/users/laurencollins-7920/)
 - [Twitter](https://twitter.com/Home_At_Heart_)
 - [GitHub](https://github.com/LaurenC2022)
 - [StackOverFlow](https://stackoverflow.com/users/17926621/lauren-collins)
@@ -24,8 +25,8 @@
 ## Learning in Public - Notebooks 
 
 - [Weekly Status Updates](./learnings/learning-in-public.md)
-- [Notes Catalog](./learnings/notes-catalog.md)
-- 
+- [Table of Contents - Proof of Learning](./TOC.md)
+
 
 ## Resume: 
 
@@ -44,19 +45,32 @@
 
 I am an Advanced Beginner in all topics below and have built projects using these technologies.
 
+### Current Focus 
+
 - HTML
 - CSS
+- C#
+- Javascript 
+- Typscript 
+- Azure DevOps 
+- Git Version Control
+- Visual Studios IDE
+- Asp.NET
+
+
+### Some Experience 
 - Python
 - C++
-- C#
-- Git Version Control
 - VS Code IDE
-- Visual Studios IDE
 - Agile Development
 - Test Driven Development
 - Linux Command Line
 
-- Interested in adding Java to skills. 
+### Future Goals 
+
+- Interested in adding Java to skills 
+- Python
+
 
 ## About Me 
 
