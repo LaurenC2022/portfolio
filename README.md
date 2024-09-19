@@ -18,12 +18,6 @@
     - [Code](https://github.com/LaurenC2022/ForEvelynn)
     - About: EvelynnRose.com is an eCommerce platform offering insightful PDFs on psychology, cooking, arts, self-care, and empowering women in tech. Built with ASP.NET Core, NopCommerce, HTML/CSS/JavaScript, and hosted on Azure, it provides a secure, scalable, and user-friendly shopping experience.
 
-4. Tech Interview Workshop 
-
-    - [Code](https://github.com/codebar-shanghai/Tech_Interviews_Sorting_Algorithms)
-    - [Presentation](https://codebar-shanghai.github.io/Tech_Interviews_Sorting_Algorithms/)
-    - About: I am building and conducting a workshop to help participants prepare for coding interviews, particularly focusing on sorting algorithms and RSA algorithm. I am presenting the workshop for a coding club.  
-
 ## Lets Connect 
 
 - [LinkedIn](https://www.linkedin.com/in/laurencollins1190/)
