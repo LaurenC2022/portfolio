@@ -13,6 +13,11 @@
     - [Code](https://github.com/LaurenC2022/encryption_RSA)
     - About: This is a Python program that encrypts and decrypts messages git using the Rivest-Shamir-Adleman algorithm.
 
+3. EvelynnRose.com (eCommerce website)
+
+    - [Code](https://github.com/LaurenC2022/ForEvelynn)
+    - About: EvelynnRose.com is an eCommerce platform offering insightful PDFs on psychology, cooking, arts, self-care, and empowering women in tech. Built with ASP.NET Core, NopCommerce, HTML/CSS/JavaScript, and hosted on Azure, it provides a secure, scalable, and user-friendly shopping experience.
+
 ## Lets Connect 
 
 - [LinkedIn](https://www.linkedin.com/in/laurencollins1190/)
