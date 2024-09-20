@@ -10,12 +10,12 @@ My goals are centered around developing a strong foundation in web development, 
 
     - What did you do last week?
         - Wrote Dev.To article/ tutorial: [Hugging Face: Interacting with Roberta and Hugging Face for the first time](https://dev.to/laurenc2022/hugging-face-interacting-with-roberta-and-hugging-face-for-the-first-time-3feb)
-        - Tech Interviews Sorting Algorithms Workshop: Removed unnessisary slides, and created activities 
-        - Data Structures & Algorithms: took notes on top down programming   
-        - Soft Skills: take notes on pair programming. Published notes 
-        - Portfolio: undated main page with links to weekly status update and data structures and algorithms learnings
 
-        Top Down Programming Study plan: Phase 1: Fundamentals (1-2 weeks)
+        - Tech Interviews Sorting Algorithms Workshop: Removed unnessisary slides, and created activities 
+
+        - Portfolio: updated main page with links to weekly status update and data structures and algorithms learnings
+
+        - Top Down Programming Study plan: Phase 1: Fundamentals (1-2 weeks)
 
         1. Introduction to Top-Down Programming:
 	        * Read articles and tutorials on top-down programming (e.g., Wikipedia, GeeksforGeeks)
@@ -23,6 +23,10 @@ My goals are centered around developing a strong foundation in web development, 
         2. Programming Basics:
 	        * Review programming fundamentals (e.g., data types, variables, control structures, functions)
 	        * Practice writing simple programs in a language of your choice (Python, C#, Typscript, Javascript)
+
+        ASP.NET Project, Day 1: 
+
+        - Use Chapter 1 of Pro ASP.NET Core 7 by Adam Freeman to set up project 
 
     - What do you plan to do this week?
     - Are there any impediments in your way?
