@@ -24,17 +24,33 @@ Top-down programming is a programming approach where you start with a high-level
 
 	General Top-Down Programming Articles
 
-	- "Top-Down Programming" by GeeksforGeeks: This article provides a comprehensive introduction to top-down programming, including its definition, advantages, and disadvantages.
-	- "Top-Down Approach" by Tutorialspoint: This article explains the top-down approach to programming, including its steps and benefits.
-	- "Top-Down Programming: A Guide" by Codecademy: This article provides a step-by-step guide to top-down programming, including examples and exercises.
-	- "Top-Down Programming in C#" by C# Corner: This article provides a comprehensive guide to top-down programming in C#, including examples and best practices.
-	Top-Down Programming Techniques
+	- "Top-Down Programming" by GeeksforGeeks: This article provides a comprehensive introduction to top-down programming, including its definition, advantages, and disadvantages. 
+		- This article could not be found. Instead I read these two article: 
+			- [What is Top-Down and Bottom-Up Approach in Java?](https://www.geeksforgeeks.org/what-is-top-down-and-bottom-up-approach-in-java/)
+			- [Difference between Bottom-Up Model and Top-Down Model](https://www.geeksforgeeks.org/difference-between-bottom-up-model-and-top-down-model/)
 	- "Functional Decomposition" by Wikipedia: This article explains the concept of functional decomposition, a key technique in top-down programming.
-	- "Modular Programming" by IBM Developer: This article provides an introduction to modular programming, a technique used in top-down programming.
-	- "Top-Down Design" by Stack Overflow: This article explains the concept of top-down design, including its benefits and challenges.
-	- "Top-Down Programming in Web Development" by FreeCodeCamp: This article explains the use of top-down programming in web development, including its advantages and disadvantages.
+	- [Top Down v. Bottom Up design approach [duplicate]](https://stackoverflow.com/questions/858402/top-down-v-bottom-up-design-approach): StackOverflow discussion from 2009 with links to other articles.
 
-	* Watch video lectures on top-down programming (e.g., Coursera, edX)
+	Here are some videos that cover **Top-Down Programming**:
+
+	- **[How to Code (almost) Any Feature](https://youtu.be/h1o5UzKfZcQ?si=Fd5S_T3SajEGx4I3)** - This video explains top-down design in game development.
+   
+	- **[The Top Down Approach to Software Development](https://www.youtube.com/watch?v=SrF4k18vzWw)** - A concise explanation of top-down programming and its practical applications in software development.
+
+	- **[The Top Down Approach to Software Development - YouTube](https://www.youtube.com/watch?v=w-pbpgwC-Cc)** - This video explores how top-down design is used in software development, starting from the broader goals and breaking them down into smaller tasks.
+
+	- **[How principled coders outperform the competition](https://youtu.be/q1qKv5TBaOA?si=IwtDjSBcbxjxLLEO)** - Visualizes good code and how it fits into modular programming. 
+
+These resources should give you a good understanding of top-down programming concepts.
+
+ I recommend searching for other top-down programming videos on popular platforms like YouTube or Coursera. Here are some alternative search terms you can use to find relevant videos:
+
+- "Top-Down Programming Tutorial"
+- "Top-Down Design in Programming"
+- "Modular Programming Techniques"
+- "Top-Down Approach Software Development"
+
+You may also find useful explanations on platforms like Udemy or Pluralsight, which offer structured programming courses.
 
 
 2. **Programming Basics**:
