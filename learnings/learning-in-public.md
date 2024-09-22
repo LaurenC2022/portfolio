@@ -6,28 +6,29 @@ My goals are centered around developing a strong foundation in web development, 
 
 ## Weekly Status Updates 
 
-- ### September 23, 2024 - September 29, 2024
+- ### Areas of Growth: September 23, 2024 - September 29, 2024 
 
-    - What did you do last week?
-        - Wrote Dev.To article/ tutorial: [Hugging Face: Interacting with Roberta and Hugging Face for the first time](https://dev.to/laurenc2022/hugging-face-interacting-with-roberta-and-hugging-face-for-the-first-time-3feb)
+    - Community Involvement & Algorithms: 
 
-        - Tech Interviews Sorting Algorithms Workshop: Removed unnessisary slides, and created activities 
-
-        - Portfolio: updated main page with links to weekly status update and data structures and algorithms learnings
+        - Tech Interviews Sorting Algorithms Workshop: Created workshop activities and reviewed how to program the activity  
 
         - Top Down Programming Study plan: Phase 1: Fundamentals (1-2 weeks)
 
-        1. Introduction to Top-Down Programming:
-	        * Read articles and tutorials on top-down programming (e.g., Wikipedia, GeeksforGeeks)
-	        * Watch video lectures on top-down programming (e.g., Coursera, edX)
-        2. Programming Basics:
-	        * Review programming fundamentals (e.g., data types, variables, control structures, functions)
-	        * Practice writing simple programs in a language of your choice (Python, C#, Typscript, Javascript)
+        - Volunttering with Virtual Coffee through hosting online meetup 
 
-        ASP.NET Project, Day 1: 
+    - Projects 
 
-        - Use Chapter 1 of Pro ASP.NET Core 7 by Adam Freeman to set up project 
+        - EvelynnRose.com: I set up a C#, .NET application in Azure and GitHub
 
-    - What do you plan to do this week?
-    - Are there any impediments in your way?
-    - Reflection on the process you used last week, how can you make the process work better?
+    - Diversity and Advancement, TBD 
+
+        - areas: Java, python, university research studies, open source research and contribution, AI integration and learnings 
+
+    - Paid Work, TBD 
+
+- ### Areas of Growth: September 15, 2024 - September 21, 2024
+
+    - Community Involvement: 
+
+        - Wrote Dev.To article/ tutorial: [Hugging Face: Interacting with Roberta and Hugging Face for the first time](https://dev.to/laurenc2022/hugging-face-interacting-with-roberta-and-hugging-face-for-the-first-time-3feb)
+    
