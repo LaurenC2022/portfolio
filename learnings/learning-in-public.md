@@ -26,6 +26,9 @@ My goals are centered around developing a strong foundation in web development, 
 
     - Paid Work, TBD 
 
+        - Signed up for huntr.co
+        - applied for remote software jobs
+
 - ### Areas of Growth: September 15, 2024 - September 21, 2024
 
     - Community Involvement: 
