@@ -6,6 +6,16 @@ My goals are centered around developing a strong foundation in web development, 
 
 ## Weekly Status Updates 
 
+- ### Areas of Growth: October 7, 2024 - October 29, 2024 
+
+    - Community Involvement
+
+    - Diversity and Advancement
+
+        - Researched on ChatGTP and HuggingFace.co/chat how to stay up to date in academic research and industry advancement as a software engineer. Responses can be found on [Continious Learning ChatGTP.md](./continious_learning_ChatGTP.md) and [Continious Learning HuggingFace.md](./continious_learning_HuggingFace.md)
+
+- ### Home Relocation and Chinese Mid Autumn's Festival Holiday Break: September 29, 2024 - October 6, 2024 
+
 - ### Areas of Growth: September 23, 2024 - September 29, 2024 
 
     - Community Involvement & Algorithms: 
