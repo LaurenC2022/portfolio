@@ -8,7 +8,13 @@ My goals are centered around developing a strong foundation in web development, 
 
 - ### Areas of Growth: October 7, 2024 - October 29, 2024 
 
-    - Community Involvement
+    - Community Involvement 
+
+            - Working on workshop: memorizing and practicing key topics for Bubble sort, merge sort, and RSA. I am also memorizing and practicing key topics in top down programming and pair programming. 
+
+            - Working on workshop: (1) add images to presentation, (2) add history slides for RSA top down programming and pair programming as needed (3) include time for group practice of top down programming and pair programming for bubble sort (practice this/ run through a few times) (4) create merge sort and RSA activities based on what they should know and have memorized for each in an interview (5) run through whole presetation a few times ideas of time frame and how users will set up the colleborative top down programming and pair programming part and the activities on their devices 
+
+            - Working on workshop: memorize history for top down programming and pair programming and RSA 
 
     - Diversity and Advancement
 
