@@ -6,7 +6,7 @@ My goals are centered around developing a strong foundation in web development, 
 
 ## Weekly Status Updates 
 
-- ### Areas of Growth: October 7, 2024 - October 29, 2024 
+- ### Areas of Growth: October 7, 2024 - October 13, 2024 
 
     - Community Involvement 
 
@@ -19,6 +19,40 @@ My goals are centered around developing a strong foundation in web development, 
     - Diversity and Advancement
 
         - Researched on ChatGTP and HuggingFace.co/chat how to stay up to date in academic research and industry advancement as a software engineer. Responses can be found on [Continious Learning ChatGTP.md](./continious_learning_ChatGTP.md) and [Continious Learning HuggingFace.md](./continious_learning_HuggingFace.md)
+
+    - Conferences/Webinars 
+    
+        - Virtual Microsoft event
+
+    - Fundamental Computer Science Knowledge 
+
+        - study Bubble Sort, Merge Sort, Select Sort, RSA cryptography algorithms 
+
+    - Goal Setting 3, 6, 12, and 18 months
+
+        Time plan
+            - job (40 hours/week) - no job? then 20 hours job hunting & 20 hours other* 
+            - Sleep (7:30 pm to 3:00 am)(52.5 hours per week)
+            - Everything else (75.5 hours) - job? "other*" gets moved here with everything else I have to do 
+
+        3 months:  
+        - Job (get one)
+        - Fundamental Computer Science Knowledge - Algorithms/ Data Structures knowledge & language study
+        - Open source contribution
+        - Learn about advancement in technology
+
+        3 to 36 months 
+        - job 
+         - Fundamental Computer Science Knowledge - credentialed (1 course / semester)
+
+
+        *Other, personal time professional development: 
+
+        - Fundamental Computer Science Knowledge - enroll in courses & get credentials 
+        - Open source contribution 
+        - Learn about advancement in technology through articles, magazines, and research 
+        - Participate in Conferences and Webinars
+        - Participate in Coding Communities 
 
 - ### Home Relocation and Chinese Mid Autumn's Festival Holiday Break: September 29, 2024 - October 6, 2024 
 

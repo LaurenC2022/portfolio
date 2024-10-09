@@ -38,16 +38,42 @@
 
 ## Career Goals - Education I'm Interested in 
 
-- bachelor's, master's and PhD in computer science field of study 
-- Deep understanding of fundamental computer science topics 
+- Deep understanding of fundamental computer science topics (undergraduate level)
 - Understanding of cloud computing 
+- Algorithms: systematic, efficient problem solving 
 - Deep understanding of software design and architecture 
 
 ## Communities I'm Involved in/ Interested in 
 
+### Involved 
 - Virtual Coffee 
 - codebar 
-- 
+
+### Research Interests - Learn about advancement in technology through articles, magazines, and research
+
+- Virtual Microsoft event
+- Read GitHub trending repositories: what’s trending in research and new tools in action.
+- ACM Digital Library
+- IEEE Xplore
+- ICSE: (International Conference on Software Engineering)
+- Hacker News
+
+- ArXiv: Preprints of research papers, especially for AI, ML, and algorithms.
+- Google Scholar Alerts: Set up alerts for new papers in your field of interest.
+
+- Software Engineering at Google (Google's software engineering blog)
+- Microsoft Research (Microsoft's research blog)
+- ACM Queue ( Association for Computing Machinery's magazine)
+- Communications of the ACM (ACM's flagship magazine)
+- IEEE Software (IEEE's software engineering magazine)
+
+Conferences & Webinars 
+
+- **ICSE** (International Conference on Software Engineering)
+- **O’Reilly Software Architecture Conference**
+- **GOTO Conferences**
+- **QCon**
+- Many of these conferences offer recordings or live streams.
 
 ## Resume: 
 
