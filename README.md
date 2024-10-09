@@ -36,6 +36,18 @@
 - [Weekly Status Updates](./learnings/learning-in-public.md)
 - [Table of Contents - Proof of Learning](./TOC.md)
 
+## Career Goals - Education I'm Interested in 
+
+- bachelor's, master's and PhD in computer science field of study 
+- Deep understanding of fundamental computer science topics 
+- Understanding of cloud computing 
+- Deep understanding of software design and architecture 
+
+## Communities I'm Involved in/ Interested in 
+
+- Virtual Coffee 
+- codebar 
+- 
 
 ## Resume: 
 
