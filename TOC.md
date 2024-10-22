@@ -10,6 +10,5 @@
 - proof_of_learning    algorithms_and_data_struct_notes [what you should know vs memorize](./proof_of_learning/algorithms_and_data_struct_notes/what_you_should_know_vs_memorize.md)
 - proof_of_learning [continious learning ChatGTP](./proof_of_learning/continious_learning_ChatGTP.md)
 - proof_of_learning [continious learning HuggingFace](./proof_of_learning/continious_learning_HuggingFace.md)
-- proof_of_learning [learning-in-public](./proof_of_learning/learning-in-public.md)
 - proof_of_learning    programming_methodology [top-down-learning-plan](./proof_of_learning/programming_methodology/top-down-learning-plan.md)
 - proof_of_learning    programming_methodology [top-down-notes](./proof_of_learning/programming_methodology/top-down-notes.md)
