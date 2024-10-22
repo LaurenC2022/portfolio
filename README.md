@@ -30,6 +30,9 @@
 
 <img src="./images/lauren-collins-logo.png" alt="Profile Picture" width="200" height="200">
 
+## Why is my portfolio a markdown file? 
+
+- I noticed many computer science profossors have simple portfolio sites written in HTML only. I am following the example of highly credible doctors in the field of computer science and keeping my portfolio site simple. 
 
 ## Learning in Public - Notebooks 
 
