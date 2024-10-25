@@ -19,6 +19,19 @@
     - [Live Website](https://evelynnrose-cyd8hcgydbcadebs.canadacentral-01.azurewebsites.net/)
     - About: EvelynnRose.com is an eCommerce platform offering insightful PDFs on psychology, cooking, arts, self-care, and empowering women in tech. Built with ASP.NET Core, NopCommerce, HTML/CSS/JavaScript, and hosted on Azure, it provides a secure, scalable, and user-friendly shopping experience.
 
+## Education
+
+- Bachelor of Science in Applied Computer Science from University of Colorado - Boulder 
+    - Jan 2024 - Present
+    - GPA: 3.824
+    - Courses Completed: Data Structures (A-), Software Development Methodologies (A), Information Visualization (A-)
+
+- Bachelor of Science in Teaching and Learning
+    - Graduated May 2020 
+    - GPA: 3.08
+    - Worked as classroom teacher directly following graduation 
+    - Reason for leaving: spouse work relocation 
+
 ## Lets Connect 
 
 - [LinkedIn](https://www.linkedin.com/in/laurencollins1190/)
