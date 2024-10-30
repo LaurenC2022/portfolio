@@ -1,0 +1,13 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = hello_vectors_arrays_lists
+build_property.ProjectDir = /workspaces/portfolio/proof_of_learning/Fundamental Computer Science Knowledge/algorithms_and_data_struct_notes/data-structures/0. Vectors, Classes, and Objects/C#/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

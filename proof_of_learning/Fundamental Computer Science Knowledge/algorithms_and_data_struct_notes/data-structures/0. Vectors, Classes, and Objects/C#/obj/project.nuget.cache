@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GzFYhIjMGhQ=",
+  "success": true,
+  "projectFilePath": "/workspaces/portfolio/proof_of_learning/Fundamental Computer Science Knowledge/algorithms_and_data_struct_notes/data-structures/0. Vectors, Classes, and Objects/C#/hello_vectors_arrays_lists.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.ref/6.0.33/microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.33/microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.33/microsoft.netcore.app.host.linux-x64.6.0.33.nupkg.sha512"
+  ],
+  "logs": []
+}

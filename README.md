@@ -49,7 +49,7 @@
 
 ## Learning in Public - Notebooks 
 
-- [Table of Contents - Proof of Learning](./TOC.md)
+- [Learning Notebook](./TOC.md)
 
 ## Career Goals - Education I'm Interested in 
 
@@ -138,23 +138,16 @@ I am an Advanced Beginner in all topics below and have built projects using thes
 
 My goals are centered around developing a strong foundation in web development, programming, and DevOps. I aim to build a professional online presence by creating a personal portfolio project and establishing a consistent blogging routine to showcase my skills and knowledge. Additionally, I plan to develop a comprehensive ecommerce project using NopCommerce, learn about RESTful APIs and microservices architecture, and build a Command-Line Interface (CLI) application using Java. I also intend to explore web scraping using Python and automate tasks using Azure DevOps, Key Vault, and Logic Apps. By achieving these goals, I aim to enhance my technical skills, improve my online presence, and increase my employability in the tech industry.
 
-- ### Areas of Growth: October 20, 2024 - October 27, 2024
+- ### Areas of Growth: October 28, 2024 - November 3, 2024
 
-    - Work 
+    - Planned work week 
 
-        - 
+- ### Areas of Growth: October 21, 2024 - October 27, 2024
 
-    - After work Professional Development: 
-
-        - Community Involvement:
-
-        - Fundamental Computer Science Knowledge:
-
-        - Research and industry advancement studies in AI, machine learning and cloud computing: 
-
-        - software development methodologies (e.g. agile development, scrum, programming best practices): 
-
-        - Language/tool specific skills (e.g. idiomatic programming, pythonic programming practice, etc.): 
+    - Found Open Source Projects to become involved in: Recipe Sage 
+    - Collected job application tool: JobScan
+    - Applied to 2 jobs 
+    - Selected Freelancing Websites to use: Freelancer, Upwork 
 
 - ### Areas of Growth: October 13, 2024 - October 20, 2024 
 
