@@ -152,6 +152,8 @@ My goals are centered around developing a strong foundation in web development, 
 
     - Fundamental Computer Science Knowledge: review arrays, lists, vectors, and linked lists in Python, C# and C by reading textbooks and using Copilot to quick me on knowledge. Then complete LeetCode problems relavant to arrays, lists, vectors and linked lists in Python, C# or C 
 
+    - Reading: section 1 of Clean Code by Rovert C. Martin 
+
 - ### Areas of Growth: October 21, 2024 - October 27, 2024
 
     - Found Open Source Projects to become involved in: Recipe Sage 
