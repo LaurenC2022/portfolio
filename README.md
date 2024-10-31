@@ -138,9 +138,19 @@ I am an Advanced Beginner in all topics below and have built projects using thes
 
 My goals are centered around developing a strong foundation in web development, programming, and DevOps. I aim to build a professional online presence by creating a personal portfolio project and establishing a consistent blogging routine to showcase my skills and knowledge. Additionally, I plan to develop a comprehensive ecommerce project using NopCommerce, learn about RESTful APIs and microservices architecture, and build a Command-Line Interface (CLI) application using Java. I also intend to explore web scraping using Python and automate tasks using Azure DevOps, Key Vault, and Logic Apps. By achieving these goals, I aim to enhance my technical skills, improve my online presence, and increase my employability in the tech industry.
 
+- ### Areas of Growth: October 4, 2024 - November 10, 2024
+
+ 
+
 - ### Areas of Growth: October 28, 2024 - November 3, 2024
 
-    - Planned work week 
+    - Open Source - Learning which open source projects I'm interested in getting involved in: Django, Scrapy, .NET Core, flask, Angular 
+
+    - Skill Up: review web scraping assignment from school. Then building another web scrapper using scrappy 
+
+    - Freelance work: find web scraping work which takes 1 to 8 hours to complete using Freelancer.com and/or UpWork.com
+
+    - Fundamental Computer Science Knowledge: review arrays, lists, vectors, and linked lists in Python, C# and C by reading textbooks and using Copilot to quick me on knowledge. Then complete LeetCode problems relavant to arrays, lists, vectors and linked lists in Python, C# or C 
 
 - ### Areas of Growth: October 21, 2024 - October 27, 2024
 
