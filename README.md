@@ -130,9 +130,24 @@ I am an Advanced Beginner in all topics below and have built projects using thes
 - Asp.net 
 - Machine Learning and AI 
 
+## Algorithms and Data Structures Notebook 
+
+[Leetcode Problems, Cracking Coding Interveiw Problems, Notes](https://github.com/LaurenC2022/Data_structures_and_Algorithms.git)
+
+## About Me 
+
+I am passionate about computer programming and have built several personal frontend web applications. One of my key projects involved modeling the Rivest-Shamir-Adleman Algorithm using Python, which you can find in my portfolio. Currently, I am building a full-stack application using C#, .NET, and nopCommerce, focusing on technologies widely used in American industries. I am also expanding my skill set by exploring Java to diversify my expertise. My daily routine includes studying algorithms, developing projects, and incorporating automation to optimize my workflow.
+
+My previous experience as a middle school math teacher has honed my communication skills and ability to collaborate with teams of professionals. I leverage this experience to lead coding workshops in the communities I’m involved in, with the goal of one day speaking at conferences and universities around the world. I am passionate about continuous learning and actively pursue opportunities to teach and share knowledge.
+
+Looking ahead, my focus is on becoming highly skilled in DevOps, software engineering, and software architecture. I aim to specialize in Microsoft frameworks while diversifying into Java development. Over the next five years, I plan to establish a workflow that keeps me up to date with the latest technologies and research, particularly through open-source contributions and learning from top universities. I am also staying current with advancements in AI by learning Python.
+
+I excel in problem-solving and utilize online communities to find the most effective coding solutions. I am seeking opportunities to work alongside seasoned engineers, where I can contribute my programming skills, strong communication abilities, and passion for long-lasting professional relationships.
+
+
 ## Weekly Status Updates
 
-My goals are centered around developing a strong foundation in web development, programming, and DevOps. I aim to build a professional online presence by creating a personal portfolio project and establishing a consistent blogging routine to showcase my skills and knowledge. Additionally, I plan to develop a comprehensive ecommerce project using NopCommerce, learn about RESTful APIs and microservices architecture, and build a Command-Line Interface (CLI) application using Java. I also intend to explore web scraping using Python and automate tasks using Azure DevOps, Key Vault, and Logic Apps. By achieving these goals, I aim to enhance my technical skills, improve my online presence, and increase my employability in the tech industry.
+My goals are centered around developing a strong foundation in web development, programming, and DevOps. I aim to build a professional online presence by creating this Weekly Status Update and establishing a consistent blogging routine to showcase my skills and knowledge. 
 
 - ### Areas of Growth: October 4, 2024 - November 10, 2024
 
@@ -245,14 +260,3 @@ My goals are centered around developing a strong foundation in web development, 
 
         - Wrote Dev.To article/ tutorial: [Hugging Face: Interacting with Roberta and Hugging Face for the first time](https://dev.to/laurenc2022/hugging-face-interacting-with-roberta-and-hugging-face-for-the-first-time-3feb)
     
-
-
-## About Me 
-
-I am passionate about computer programming and have built several personal frontend web applications. One of my key projects involved modeling the Rivest-Shamir-Adleman Algorithm using Python, which you can find in my portfolio. Currently, I am building a full-stack application using C#, .NET, and nopCommerce, focusing on technologies widely used in American industries. I am also expanding my skill set by exploring Java to diversify my expertise. My daily routine includes studying algorithms, developing projects, and incorporating automation to optimize my workflow.
-
-My previous experience as a middle school math teacher has honed my communication skills and ability to collaborate with teams of professionals. I leverage this experience to lead coding workshops in the communities I’m involved in, with the goal of one day speaking at conferences and universities around the world. I am passionate about continuous learning and actively pursue opportunities to teach and share knowledge.
-
-Looking ahead, my focus is on becoming highly skilled in DevOps, software engineering, and software architecture. I aim to specialize in Microsoft frameworks while diversifying into Java development. Over the next five years, I plan to establish a workflow that keeps me up to date with the latest technologies and research, particularly through open-source contributions and learning from top universities. I am also staying current with advancements in AI by learning Python.
-
-I excel in problem-solving and utilize online communities to find the most effective coding solutions. I am seeking opportunities to work alongside seasoned engineers, where I can contribute my programming skills, strong communication abilities, and passion for long-lasting professional relationships.
