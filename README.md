@@ -47,10 +47,6 @@
 
 - I noticed many computer science profossors have simple portfolio sites written in HTML only. I am following the example of highly credible doctors in the field of computer science and keeping my portfolio site simple. 
 
-## Learning in Public - Notebooks 
-
-- [Learning Notebook](./TOC.md)
-
 ## Career Goals - Education I'm Interested in 
 
 - Deep understanding of fundamental computer science topics (undergraduate level)
@@ -140,17 +136,20 @@ My goals are centered around developing a strong foundation in web development, 
 
 - ### Areas of Growth: October 4, 2024 - November 10, 2024
 
+    - Skilling up: review web scrapper assignment and build again for another website 
+    - CS Fundamentals: Use Cracking Coding interview problem set for to review lists and string 
+    - Freelancing: Find and complete 1 web scrapping freelancing job 
+    - Open Source: Join .NET Core communities, expore repository, read documentation for overview of features, set up docal development environmnet and try working on small tasts or issues 
+    - Passion Project: Website builder project with Virtual Coffee Community 
+    - Reading: Clean Code 
+
  
 
 - ### Areas of Growth: October 28, 2024 - November 3, 2024
 
     - Open Source - Learning which open source projects I'm interested in getting involved in: Django, Scrapy, .NET Core, flask, Angular 
 
-    - Skill Up: review web scraping assignment from school. Then building another web scrapper using scrappy 
-
-    - Freelance work: find web scraping work which takes 1 to 8 hours to complete using Freelancer.com and/or UpWork.com
-
-    - Fundamental Computer Science Knowledge: review arrays, lists, vectors, and linked lists in Python, C# and C by reading textbooks and using Copilot to quick me on knowledge. Then complete LeetCode problems relavant to arrays, lists, vectors and linked lists in Python, C# or C 
+    - Fundamental Computer Science Knowledge: review list and vectors (NumPy) in Python. Completed Leetcode problem "". Used AI to review nuances of python list and vectors using NumPy. 
 
     - Reading: section 1 of Clean Code by Rovert C. Martin 
 

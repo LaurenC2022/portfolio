@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "proof_of_learning", "proof_of_learning", "{36047AE5-679A-46FE-9CC0-AF43893B0C94}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Fundamental Computer Science Knowledge", "Fundamental Computer Science Knowledge", "{D324C909-2494-4644-A5EF-191C7E994BA1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "algorithms_and_data_struct_notes", "algorithms_and_data_struct_notes", "{B5BF24B1-1341-4A6F-BF93-28FF7DD4A620}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "data-structures", "data-structures", "{C4960DAE-A1BF-48F5-8DCB-7CFC59054DD3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0. Vectors, Classes, and Objects", "0. Vectors, Classes, and Objects", "{2620A275-2180-4C14-A1B9-9497DDE9E513}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hello_vectors_arrays_lists", "proof_of_learning\Fundamental Computer Science Knowledge\algorithms_and_data_struct_notes\data-structures\0. Vectors, Classes, and Objects\C#\hello_vectors_arrays_lists.csproj", "{8E39F6D7-04CB-4C62-B56E-30D2413099FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E39F6D7-04CB-4C62-B56E-30D2413099FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E39F6D7-04CB-4C62-B56E-30D2413099FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E39F6D7-04CB-4C62-B56E-30D2413099FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E39F6D7-04CB-4C62-B56E-30D2413099FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D324C909-2494-4644-A5EF-191C7E994BA1} = {36047AE5-679A-46FE-9CC0-AF43893B0C94}
+		{B5BF24B1-1341-4A6F-BF93-28FF7DD4A620} = {D324C909-2494-4644-A5EF-191C7E994BA1}
+		{C4960DAE-A1BF-48F5-8DCB-7CFC59054DD3} = {B5BF24B1-1341-4A6F-BF93-28FF7DD4A620}
+		{2620A275-2180-4C14-A1B9-9497DDE9E513} = {C4960DAE-A1BF-48F5-8DCB-7CFC59054DD3}
+		{8E39F6D7-04CB-4C62-B56E-30D2413099FE} = {2620A275-2180-4C14-A1B9-9497DDE9E513}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB781FEA-0256-4AFB-8879-3DAFDBCF565D}
+	EndGlobalSection
+EndGlobal
