@@ -26,6 +26,14 @@
     - Worked as classroom teacher directly following graduation 
     - Reason for leaving: spouse work relocation 
 
+## Productivity Tools: 
+
+I am a busy mom. I use these tools to keep my family, my home and my career running: 
+
+    - Time Management Excel Spreadsheet (Personal)
+    - Project Mangaement Excel Spreadsheet (Work)
+    - [Recipe Sage](https://recipesage.com/#/people/@full_stack_lauren): These are the recipes i use for dinner. Recipe Sage is open source software and a friendly community to contribute to. I added my family recipes and use the meal planning and grocery list tools to plan healthy meals my family will eat 
+
 ## Lets Connect 
 
 - [LinkedIn](https://www.linkedin.com/in/laurencollins1190/)
