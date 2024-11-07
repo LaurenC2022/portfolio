@@ -26,14 +26,6 @@
     - Worked as classroom teacher directly following graduation 
     - Reason for leaving: spouse work relocation 
 
-## Productivity Tools: 
-
-I am a busy mom. I use these tools to keep my family, my home and my career running: 
-
-    - Time Management Excel Spreadsheet (Personal)
-    - Project Mangaement Excel Spreadsheet (Work)
-    - [Recipe Sage](https://recipesage.com/#/people/@full_stack_lauren): These are the recipes i use for dinner. Recipe Sage is open source software and a friendly community to contribute to. I added my family recipes and use the meal planning and grocery list tools to plan healthy meals my family will eat 
-
 ## Lets Connect 
 
 - [LinkedIn](https://www.linkedin.com/in/laurencollins1190/)
@@ -146,6 +138,15 @@ Looking ahead, my focus is on becoming highly skilled in DevOps, software engine
 
 I excel in problem-solving and utilize online communities to find the most effective coding solutions. I am seeking opportunities to work alongside seasoned engineers, where I can contribute my programming skills, strong communication abilities, and passion for long-lasting professional relationships.
 
+## Productivity Tools: 
+
+I am a busy mom. I use these tools to keep my family, my home and my career running: 
+
+    - Time Management Excel Book (Personal)
+    - Project Mangaement Excel Book (Work)
+    - [Recipe Sage](https://recipesage.com/#/people/@full_stack_lauren): These are the recipes i use for dinner. Recipe Sage is open source software and a friendly community to contribute to. I added my family recipes and use the meal planning and grocery list tools to plan healthy meals my family will eat 
+    - Budgeting Excel Spreadsheet 
+    - Expenses Tracking Tool 
 
 ## Weekly Status Updates
 
@@ -153,14 +154,8 @@ My goals are centered around developing a strong foundation in web development, 
 
 - ### Areas of Growth: October 4, 2024 - November 10, 2024
 
-    - Skilling up: review web scrapper assignment and build again for another website 
-    - CS Fundamentals: Use Cracking Coding interview problem set for to review lists and string 
-    - Freelancing: Find and complete 1 web scrapping freelancing job 
-    - Open Source: Join .NET Core communities, expore repository, read documentation for overview of features, set up docal development environmnet and try working on small tasts or issues 
-    - Passion Project: Website builder project with Virtual Coffee Community 
-    - Reading: Clean Code 
-
- 
+    - Set up personal and work work logging system using excel
+    - Organized a meetup for developers in my area
 
 - ### Areas of Growth: October 28, 2024 - November 3, 2024
 
@@ -187,49 +182,13 @@ My goals are centered around developing a strong foundation in web development, 
 
     - Community Involvement 
 
-            - Working on workshop: memorizing and practicing key topics for Bubble sort, merge sort, and RSA. I am also memorizing and practicing key topics in top down programming and pair programming. 
+        - Working on workshop: memorizing and practicing key topics for Bubble sort, merge sort, and RSA. I am also memorizing and practicing key topics in top down programming and pair programming. 
 
-            - Working on workshop: (1) add images to presentation, (2) add history slides for RSA top down programming and pair programming as needed (3) include time for group practice of top down programming and pair programming for bubble sort (practice this/ run through a few times) (4) create merge sort and RSA activities based on what they should know and have memorized for each in an interview (5) run through whole presetation a few times ideas of time frame and how users will set up the colleborative top down programming and pair programming part and the activities on their devices 
+        - Working on workshop: (1) add images to presentation, (2) add history slides for RSA top down programming and pair programming as needed (3) include time for group practice of top down programming and pair programming for bubble sort (practice this/ run through a few times) (4) create merge sort and RSA activities based on what they should know and have memorized for each in an interview (5) run through whole presetation a few times ideas of time frame and how users will set up the colleborative top down programming and pair programming part and the activities on their devices 
 
-            - Working on workshop: memorize history for top down programming and pair programming and RSA 
+        - Working on workshop: memorize history for top down programming and pair programming and RSA 
 
-    - Diversity and Advancement
-
-        - Researched on ChatGTP and HuggingFace.co/chat how to stay up to date in academic research and industry advancement as a software engineer. Responses can be found on [Continious Learning ChatGTP.md](./continious_learning_ChatGTP.md) and [Continious Learning HuggingFace.md](./continious_learning_HuggingFace.md)
-
-    - Conferences/Webinars 
-    
-        - Virtual Microsoft event
-
-    - Fundamental Computer Science Knowledge 
-
-        - study Bubble Sort, Merge Sort, Select Sort, RSA cryptography algorithms 
-
-    - Goal Setting 3, 6, 12, and 18 months
-
-        Time plan
-            - job (40 hours/week) - no job? then 20 hours job hunting & 20 hours other* 
-            - Sleep (7:30 pm to 3:00 am)(52.5 hours per week)
-            - Everything else (75.5 hours) - job? "other*" gets moved here with everything else I have to do 
-
-        3 months:  
-        - Job (get one)
-        - Fundamental Computer Science Knowledge - Algorithms/ Data Structures knowledge & language study
-        - Open source contribution
-        - Learn about advancement in technology
-
-        3 to 36 months 
-        - job 
-         - Fundamental Computer Science Knowledge - credentialed (1 course / semester)
-
-
-        *Other, personal time professional development: 
-
-        - Fundamental Computer Science Knowledge - enroll in courses & get credentials 
-        - Open source contribution 
-        - Learn about advancement in technology through articles, magazines, and research 
-        - Participate in Conferences and Webinars
-        - Participate in Coding Communities 
+    - attended a Virtual Microsoft event
 
 - ### Home Relocation and Chinese Mid Autumn's Festival Holiday Break: September 29, 2024 - October 6, 2024 
 
