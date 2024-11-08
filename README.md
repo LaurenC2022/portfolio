@@ -142,10 +142,13 @@ I excel in problem-solving and utilize online communities to find the most effec
 
 I am a busy mom. I use these tools to keep my family, my home and my career running: 
 
-    1. [Time Management Excel Book](./management_tools/Personal%20Time%20Management%20Template.xlsx) - Plan family time, work time, chores, self-care   
-    2. [Project Mangaement Excel Book](./management_tools/Simple%20Gantt%20chart%20with%20Project%20Planning.xlsx) (Adapted from: https://create.microsoft.com/en-us/template)
-    3. [Recipe Sage](https://recipesage.com/#/people/@full_stack_lauren): Recipe Sage is open source software and a friendly community to contribute to. I added my family recipes, use the meal planning and grocery list tools built into the application to plan meals and quickly make grocery lists. 
-    4. Budgeting Excel Spreadsheet: [Persaonl Budget](./management_tools/Personal%20budget.xlsx) (Source: https://create.microsoft.com/en-us/template)
+1. [Time Management Excel Book](./management_tools/Personal%20Time%20Management%20Template.xlsx) - Plan family time, work time, chores, self-care 
+
+2. [Project Mangaement Excel Book](./management_tools/Simple%20Gantt%20chart%20with%20Project%20Planning.xlsx) (Adapted from: https://create.microsoft.com/en-us/template)
+
+3. [Recipe Sage](https://recipesage.com/#/people/@full_stack_lauren): Recipe Sage is open source software and a friendly community to contribute to. I added my family recipes, use the meal planning and grocery list tools built into the application to plan meals and quickly make grocery lists. 
+
+4. Budgeting Excel Spreadsheet: [Persaonl Budget](./management_tools/Personal%20budget.xlsx) (Source: https://create.microsoft.com/en-us/template)
     - [Expenses Tracking Tool - Expensify](https://www.expensify.com/) - This app works in China, and USA. Built for travelers and Expats 
 
 ## Weekly Status Updates
