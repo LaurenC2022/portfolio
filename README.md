@@ -148,7 +148,7 @@ I am a busy mom. I use these tools to keep my family, my home and my career runn
 
 3. [Recipe Sage](https://recipesage.com/#/people/@full_stack_lauren): Recipe Sage is open source software and a friendly community to contribute to. I added my family recipes, use the meal planning and grocery list tools built into the application to plan meals and quickly make grocery lists. 
 
-4. Budgeting Excel Spreadsheet: [Persaonl Budget](./management_tools/Personal%20budget.xlsx) (Source: https://create.microsoft.com/en-us/template)
+4. Budgeting Excel Spreadsheet: [Personal Budget](./management_tools/Personal%20budget.xlsx) (Source: https://create.microsoft.com/en-us/template)
 
 5. [Expenses Tracking Tool - Expensify](https://www.expensify.com/) - This app works in China, and USA. Built for travelers and Expats 
 
