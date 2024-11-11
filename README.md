@@ -150,8 +150,6 @@ I am a busy mom. I use these tools to keep my family, my home and my career runn
 
 4. Budgeting Excel Spreadsheet: [Personal Budget](./management_tools/Personal%20budget.xlsx) (Source: https://create.microsoft.com/en-us/template)
 
-5. [Expenses Tracking Tool - Expensify](https://www.expensify.com/) - This app works in China, and USA. Built for travelers and Expats 
-
 ## Weekly Status Updates
 
 My goals are centered around developing a strong foundation in web development, programming, and DevOps. I aim to build a professional online presence by creating this Weekly Status Update and establishing a consistent blogging routine to showcase my skills and knowledge. 
