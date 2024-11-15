@@ -154,9 +154,43 @@ I am a busy mom. I use these tools to keep my family, my home and my career runn
 
 My goals are centered around developing a strong foundation in web development, programming, and DevOps. I aim to build a professional online presence by creating this Weekly Status Update and establishing a consistent blogging routine to showcase my skills and knowledge. 
 
-- ### Areas of Growth: October 4, 2024 - November 10, 2024
+- ### Areas of Growth: October 18, 2024 - November 25, 2024
 
-    - Set up personal and work work logging system using excel
+    - Monday 
+        - Skill up: 
+        - Fundamental CS: 
+
+    - Tuesday 
+        - Personal Interest Project (nopCommerce): 
+        - Skill up: 
+
+    - Wednesday
+        - Skill up: 
+        - Fundamental CS:  
+
+    - Thursday 
+        - Personal Interest Project (nopCommerce): 
+        - Skill up: 
+
+    - Friday 
+        - Upwork/ Freelancer: 
+        - Professional Development (Clean Code Book): 
+
+- ### Areas of Growth: October 11, 2024 - November 17, 2024
+
+    - Collaboration 
+        - Set up [orgnaization on GitHub for a collabrative React & nopCommerce project](https://github.com/ShopSphere-Demo)
+        - Set up [Ghantt Chart for tracking project progress](https://o365coloradoedu-my.sharepoint.com/:x:/g/personal/laco9698_colorado_edu/EYliEv2g6aNHpItoD01oB1QBHLkb6WvIEPZZn1BDcKJICw?e=wnVfM7)
+    - Skill Up 
+        - Completed part 1 of 3 in Web Scrapping Assignment 
+    - Fundamental CS 
+        - Reviewed basic and abstract data types in python and C++ in [Algorithms & Data Structures Notebook](https://github.com/LaurenC2022/Data_structures_and_Algorithms.git)
+    - Professional Development 
+        - Read chapters 1 and 2 in Clean Code 
+
+- ### Areas of Growth: October 4, 2024 - November 10, 2024 
+
+    - Set up personal and work logging system using excel
     - Organized a meetup for developers in my area
 
 - ### Areas of Growth: October 28, 2024 - November 3, 2024
