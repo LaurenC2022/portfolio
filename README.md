@@ -106,8 +106,9 @@ I am an Advanced Beginner in all topics below and have built projects using thes
 - Agile Development (Software Development Methodologies)
 - Test Driven Development (Software Development Methodologies)
 - Linux Command Line (Software Development Methodologies)
+- Flash, Python Framework 
 
-### Hobby 
+# Other Experience 
 
 - VS Code IDE
 - Visual Studios 
