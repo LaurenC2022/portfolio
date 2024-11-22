@@ -157,25 +157,10 @@ My goals are centered around developing a strong foundation in web development, 
 
 - ### Areas of Growth: October 18, 2024 - November 25, 2024
 
-    - Monday 
-        - Skill up: 
-        - Fundamental CS: 
-
-    - Tuesday 
-        - Personal Interest Project (nopCommerce): 
-        - Skill up: 
-
-    - Wednesday
-        - Skill up: 
-        - Fundamental CS:  
-
-    - Thursday 
-        - Personal Interest Project (nopCommerce): 
-        - Skill up: 
-
-    - Friday 
-        - Upwork/ Freelancer: 
-        - Professional Development (Clean Code Book): 
+    - Reviewed Web Scrapper assignment from software development methodologies 
+    - Quized self with Copilot AI and took notes on data structures 
+    - Refactored a group project to use Flask for the backend 
+    - Reviewed flask syntax 
 
 - ### Areas of Growth: October 11, 2024 - November 17, 2024
 
