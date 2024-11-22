@@ -141,7 +141,7 @@ I excel in problem-solving and utilize online communities to find the most effec
 
 ## Productivity Tools: 
 
-I am a busy mom. I use these tools to keep my family, my home and my career running: 
+Life is crazy. This is why I share the tools below. The Time Management Excel Book and the Project Management Excel Book have helped the most in keeping me aligned with my goals daily. 
 
 1. [Time Management Excel Book](./management_tools/Personal%20Time%20Management%20Template.xlsx) - Plan family time, work time, chores, self-care 
 
