@@ -13,6 +13,11 @@
     - [Code](https://github.com/LaurenC2022/encryption_RSA)
     - About: This is a Python program that encrypts and decrypts messages git using the Rivest-Shamir-Adleman algorithm.  
 
+3. Book Bag: Full Stack Web Application with a Database 
+
+    - [Code](https://github.com/LaurenC2022/Team_6_Group_Project.git)
+    - About: Book Bag is a web applicaiton. It uses an api to fetch titles and assist a user in researching books they might need. Users can create an account, and save book titles to their user account. The application includes the use of a database to store user information. This application was built with a team of developers. 
+
 ## Education
 
 - Bachelor of Science in Applied Computer Science from University of Colorado - Boulder 
