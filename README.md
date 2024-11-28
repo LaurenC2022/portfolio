@@ -25,11 +25,15 @@
     - GPA: 3.824
     - Courses Completed: Data Structures (A-), Software Development Methodologies (A), Information Visualization (A-)
 
-- Bachelor of Science in Teaching and Learning
+- Bachelor of Science in Teaching and Learning from the University of Houston 
     - Graduated May 2020 
     - GPA: 3.08
-    - Worked as classroom teacher directly following graduation 
-    - Reason for leaving: spouse work relocation 
+
+## Work Experience 
+
+- Math Teacher 
+    - Worked as classroom teacher directly following graduation with education degree 
+    - Reason for leaving: spouse work relocation
 
 ## Lets Connect 
 
