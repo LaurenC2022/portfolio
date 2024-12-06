@@ -91,7 +91,8 @@ Conferences & Webinars
 
 ## Resume: 
 
-[Resume](./images/fullstack-ASP-dot-NET-developer-resume-lauren-collins-2.pdf)
+[Resume - Software Developer - Lauren Collins](./images/software_developer_lauren_collins.pdf)
+[Resume - Technical Program Manager - Lauren Collins](./images/technical_program_manager_lauren_collins.pdf)
 
 ## Community Involvement
 
