@@ -1,4 +1,4 @@
-# Lauren Collins - Full Stack Software Developer 
+# Lauren Collins - Technical Project Manager & Full Stack Software Developer 
 
 ## Portfolio
 
