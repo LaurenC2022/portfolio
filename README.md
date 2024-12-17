@@ -74,7 +74,8 @@
   - HTML, CSS  
   - C++ (Intro to Programming & Data Structures)  
   - Python (Intro to Programming & Information Visualization)  
-  - Flash, Python Frameworks  
+  - FlasK, Python Framework  
+  - Bash Scripting for Web Scraping
 
 - **Development Methodologies:**  
   - Agile Development (Software Development Methodologies)  

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("hello_vectors_arrays_lists")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d878d92f853d198ec13af2ced99e3d739b1e0f7c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c9d065f9f335cf4aa6e177e521af176a8e7b96e")]
 [assembly: System.Reflection.AssemblyProductAttribute("hello_vectors_arrays_lists")]
 [assembly: System.Reflection.AssemblyTitleAttribute("hello_vectors_arrays_lists")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
