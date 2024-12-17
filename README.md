@@ -101,17 +101,17 @@
 
 ## About Me 
 
-I am passionate about leveraging technology and collaboration to drive impactful projects. My experience includes technical project management for software development, with notable projects such as modeling the Rivest-Shamir-Adleman Algorithm using Python, highlighted in my portfolio. Currently, I am preparing for the Certified Associate in Project Management (CAPM) exam through the Project Management Institute.
+I am passionate about leveraging technology and collaboration to drive impactful projects. Currently, I am preparing for the Certified Associate in Project Management (CAPM) exam through the Project Management Institute.
 
 My background as a middle school math teacher sharpened my ability to communicate complex concepts clearly and collaborate effectively with diverse teams. These skills translate into my role as a technical leader, where I facilitate coding workshops and mentor others within my community. My long-term goal is to contribute to global technical forums and conferences, sharing insights on project management, software architecture, and emerging technologies.
 
-Looking ahead, I aim to deepen my expertise in DevOps, software engineering, and software architecture. Over the next five years, I plan to:  
-- Contribute to open-source projects.  
-- Pursue certifications in key technical areas.  
-- Stay engaged with the Virtual Coffee and Codebar coding communities to build strong professional networks.  
+Looking ahead, I aim to deepen my expertise in DevOps, software engineering, and software architecture. Over the next five years, I plan to:
 
-I am committed to continuous learning and developing workflows that adapt to the rapidly evolving tech landscape.  
+- Contribute to open-source projects.
+- Pursue certifications in key technical areas.
+- Stay engaged with the Virtual Coffee and Codebar coding communities to build strong professional networks.
+
+I am committed to continuous learning and developing workflows that adapt to the rapidly evolving tech landscape.
 
 I excel in problem-solving, team coordination, and driving projects to successful completion. I seek opportunities to collaborate with experienced engineers, combining my technical skills and project management expertise to deliver innovative solutions while fostering professional growth and strong, long-lasting relationships.
-
     
