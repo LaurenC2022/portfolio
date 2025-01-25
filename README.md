@@ -62,10 +62,6 @@
   - Assist learners in building confidence and developing coding skills.  
   - Contribute to fostering an inclusive and welcoming learning environment.  
 
-## Resume: 
-
-[Resume - Technical Project Manager - Lauren Collins](./images/Technical_Project_Manager_Lauren_Collins.pdf)
-
 ## Skills Stack
 
 ### College Experience  
