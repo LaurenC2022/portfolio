@@ -39,7 +39,7 @@
   - Built strong relationships with students, parents, and colleagues to create a positive and collaborative learning environment.  
   - Reason for leaving: Relocated due to spouse's work.
  
-    - **Project Manager and Marketing Intern at a Software Development Company, Shanghai, China**  
+- **Project Manager and Marketing Intern at a Software Development Company, Shanghai, China**  
   - Collaborated with new clients to gather their website requirements.
   - Worked with designers and developers to fulfill client expectations. 
   - Conducted testing and resolved issues to ensure quality delivery.  
@@ -116,7 +116,7 @@ Looking ahead, I aim to deepen my expertise in teaching and expand my impact. Ov
 
 - Staying active in coding communities like Virtual Coffee and Codebar, while building projects for fun and growth.
 
-I'm working toward becoming certified to teach computer science, with a special focus on encouraging girls and women to explore the field. I envision leading a hands-on, lab-style classroom where students can dive into foundational topics like command-line tools, basic programming, the Fibonacci sequence, data visualization, recursion, and Bash scripting. To give students a realistic view of the developer experience, we'll use GitHub and incorporate Agile principles throughout the course. I also plan to introduce an algorithm-and-data-structure pair to build their problem-solving skills and computational thinking. To round out the experience, students will complete a project that combines Figma, WordPress, and web hosting—giving them a taste of both design and deployment. My goal is to provide a well-rounded, engaging introduction to computer science that builds confidence and curiosity in every learner.
+I'm working toward becoming certified to teach computer science, with a special focus on encouraging girls and women to explore the field. I envision leading a hands-on, lab-style classroom where students can dive into foundational topics like command-line tools, basic programming, the Fibonacci sequence, data visualization, recursion, and Bash scripting. To give students a realistic view of the developer experience, we'll use GitHub and incorporate Agile principles throughout the course. I also plan to introduce an algorithm-and-data-structure pair to build their problem-solving skills and computational thinking. To round out the experience, students will complete a project that combines Figma, WordPress, and web hosting—giving them a taste of both design and deployment. My goal is to provide a well-rounded, engaging introduction to computer science that builds confidence and curiosity in every learner. Lastly, we would work with AI as it is the future of tech. 
 
 I am committed to continuous learning and to developing adaptable workflows that keep pace with the rapidly evolving tech landscape. I enjoy teaching math and computer science and look forward to a long, fulfilling career in education—while also pursuing passion projects that challenge and inspire me.
 
