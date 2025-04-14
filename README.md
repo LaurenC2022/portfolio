@@ -104,7 +104,7 @@
 
 ## About Me 
 
-I am passionate about leveraging technology and collaboration to drive impactful projects. Currently, I am preparing for the Certified Associate in Project Management (CAPM) exam through the Project Management Institute.
+I enjoy teaching, so I will always be a teacher. I am passionate about leveraging technology and collaboration to drive impactful lessons and projects. Currently, I am preparing for the ESL and math 7-12 certification. I have completed Calculus 2 and statistics in University, so my next goal will be to become certified in teaching computer science. I love math and computer science. 
 
 My background as a middle school math teacher sharpened my ability to communicate complex concepts clearly and collaborate effectively with diverse teams. These skills translate into my role as a technical leader, where I facilitate coding workshops and mentor others within my community. My long-term goal is to contribute to global technical forums and conferences, sharing insights on project management, software architecture, and emerging technologies.
 
