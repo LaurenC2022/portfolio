@@ -1,4 +1,4 @@
-# Lauren Collins - Technical Project Manager & Full Stack Software Developer 
+# Lauren Collins - 4-12 Math Texas Teacher, Technical Project Manager & Full Stack Software Developer 
 
 ## Portfolio
 
