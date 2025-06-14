@@ -96,11 +96,11 @@
 
 ### Future Goals  
 
-- **Programming Languages:** Java, C#, JavaScript, TypeScript  
+- **Programming Languages:** SQL
 - **Certifications:** Azure Certifications, Program Management Certification  
-- **Technologies:** DevOps, ASP.NET, Nop Commerce, Machine Learning, and AI
-- **Academics:** Study advanced math, algorithms and data structures topics
-- **Other:** Dabble in WordPress and Figma  
+- **Technologies:** DevOps, AI for web 
+- **Academics:** teach calculus, and study algorithms and data structures topics
+- **Other:** Dabble in WordPress and Figma design and development 
 
 ## About Me 
 
@@ -118,7 +118,7 @@ Looking ahead, I aim to deepen my expertise in teaching and expand my impact. Ov
 
 I'm working toward becoming certified to teach computer science, with a special focus on encouraging girls and women to explore the field. I envision leading a hands-on, lab-style classroom where students can dive into foundational topics like command-line tools, basic programming, the Fibonacci sequence, data visualization, recursion, and Bash scripting. To give students a realistic view of the developer experience, we'll use GitHub and incorporate Agile principles throughout the course. I also plan to introduce an algorithm-and-data-structure pair to build their problem-solving skills and computational thinking. To round out the experience, students will complete a project that combines Figma, WordPress, and web hosting—giving them a taste of both design and deployment. My goal is to provide a well-rounded, engaging introduction to computer science that builds confidence and curiosity in every learner. Students would build a protfolio like this one to showcase their learnings. Lastly, we would work with AI as it is the future of tech. 
 
-I am committed to continuous learning and to developing adaptable workflows that keep pace with the rapidly evolving tech landscape. I enjoy teaching math and computer science and look forward to a long, fulfilling career in education—while also pursuing passion projects that challenge and inspire me.
+I am committed to continuous learning and to developing adaptable workflows that keep pace with the rapidly evolving tech landscape. I enjoy teaching math and computer science and look forward to a long, fulfilling career in education—while also pursuing passion projects that challenge and inspire me. My long term goal would be to teach math and/or computer science at the college level. 
 
 I excel in problem-solving, team coordination, and driving projects to successful completion. By combining technical expertise, project management skills, and a strong teaching background, I create innovative learning experiences that foster personal growth and leave a lasting impact. I teach grades 4–12 professionally and lead adult workshops as a passion project.
     
