@@ -13,7 +13,11 @@
 
 3. **Book Bag: Full-Stack Web Application**  
    - [Source Code](https://github.com/LaurenC2022/Team_6_Group_Project.git)  
-   - **Description:** A web application designed to assist users in researching and organizing books. Users can create accounts, save book titles, and access them later. Built with a team of developers using agile development methodologies and includes a database for user data storage. 
+   - **Description:** A web application designed to assist users in researching and organizing books. Users can create accounts, save book titles, and access them later. Built with a team of developers using agile development methodologies and includes a database for user data storage.
+  
+4. **Call Her Love: Product**  
+   - [Website](CallHerLove.com)  
+   - **Description:** A WordPress-based blog and e-commerce website I am designing and developing as a learning project. Leveraging experience from my software development work in Shanghai, I’m focusing on theme customization, performance, and SEO practices — building a fast, modern site without unnecessary plugins. I plan to use these skills to teach high school students how to design and build websites, and to continue developing my expertise into a future web development business.
 
 ## Education
 
