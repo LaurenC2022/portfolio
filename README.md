@@ -3,7 +3,7 @@
 ## Portfolio
 
 1. **Call Her Love: Product**  
-   - [Website](CallHerLove.com)  
+   - [Website](https://callherlove.com/)  
    - **Description:** A WordPress-based blog and e-commerce website I am designing and developing as a learning project. Leveraging experience from my software development work in Shanghai, I’m focusing on theme customization, performance, and SEO practices — building a fast, modern site without unnecessary plugins. I plan to use these skills to teach high school students how to design and build websites, and to continue developing my expertise into a future web development business.
 
 2. **Invest in Moms for Smarter Kids**  
