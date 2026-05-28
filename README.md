@@ -4,13 +4,8 @@
 
 1. **Evie Digital: Product**  
    - [Website](https://EvieDigital.com/)  
-   - **Description:** A WordPress-based blog e-commerce platform and landing page I designed and developed that serves as a “learning in public” journal, where I openly document my skill-building journeys and monetize my original products. 
-
-Drawing on experience from my software development work in Shanghai, I focus on theme customization, website performance, SEO best practices, and scalable design. The platform is intentionally built for speed, simplicity, and efficiency using a modern, lightweight approach without unnecessary plugins.
-
-Over time, I plan to continue building content and features informed by user analytics, audience engagement, and personal interests while documenting my ongoing learning and professional growth. Agile and Scrum development ideologies and frameworks are loosely followed throughout the project to support iterative improvement, adaptability, continuous development and measurable growth.
-
- 
+   - **Description:** A WordPress-based blog e-commerce platform and landing page I designed and developed that serves as a “learning in public” journal, where I openly document my skill-building journeys and monetize my original products.
+   - **About the Build & Development Plans:** Drawing on experience from my software development work in Shanghai, I focus on theme customization, website performance, SEO best practices, and scalable design. The platform is intentionally built for speed, simplicity, and efficiency using a modern, lightweight approach without unnecessary plugins. Over time, I plan to continue building content and features informed by user analytics, audience engagement, and personal interests while documenting my ongoing learning and professional growth. Agile and Scrum development ideologies and frameworks are loosely followed throughout the project to support iterative improvement, adaptability, continuous development and measurable growth.
 
 2. **Invest in Moms for Smarter Kids**  
    - [Video Demo](https://youtu.be/_CuoAfAozsQ?si=tFwzSCvvpoZATqCe)  
